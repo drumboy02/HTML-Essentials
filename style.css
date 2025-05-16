@@ -6,7 +6,8 @@ p,
 ul,
 li,
 figure,
-figcaption {
+figcaption,
+dl {
   margin: 10px;
   padding: 0;
   list-style: none;
